@@ -3,6 +3,11 @@ using mern
 
 WEBSITE ALL FUNCTIONS 
 
+• Developed a full-stack web application for Personal blogs using Nodejs, Expressjs, MongoDB,React etc, by
+following the industrial practices of Software Engineering.
+• Implemented an authentication system using JWT (Refresh and Access Tokens)
+• Used various React Hooks and Private Routes for authorized access only
+• Used CRUD operations and middlewares
 
 https://youtu.be/lQJrZ-dgGK8
 
