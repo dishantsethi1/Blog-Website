@@ -1,7 +1,7 @@
 # Blog-Website
 using mern
 
-LIVE LINK :  [https://shopping-cart-dishant.herokuapp.com](https://myblogmernappnewapp.herokuapp.com)
+LIVE LINK :  https://myblogmernappnewapp.herokuapp.com 
 
 WEBSITE ALL FUNCTIONS 
 
