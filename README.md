@@ -3,6 +3,8 @@ using mern
 
 LIVE LINK :  https://myblogmernappnewapp.herokuapp.com 
 
+CLIENT folder in SERVER folder ( for deployment) 
+
 WEBSITE ALL FUNCTIONS 
 
 • Developed a full-stack web application for Personal blogs using Nodejs, Expressjs, MongoDB,React etc, by
