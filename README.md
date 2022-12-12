@@ -3,6 +3,12 @@ using mern
 
 LIVE LINK :  https://myblogmernappnewapp.herokuapp.com 
 
+PROOF : 
+
+deployed bu![image](https://user-images.githubusercontent.com/60183138/206967526-9fc2287a-342e-43dc-9add-15cabab79253.png)
+t 
+not working due to heroku's changes 
+
 CLIENT folder in SERVER folder ( for deployment) 
 
 WEBSITE ALL FUNCTIONS 
